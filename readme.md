@@ -13,7 +13,7 @@
 
 # Login system
   - User_Login
-    Email: user@mail.com
+    Email: Student@mail.com
     Password: 123
   
   - Teacher_Login
